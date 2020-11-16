@@ -1,0 +1,6 @@
+.swiper-button-next:after, .swiper-container-rtl .swiper-button-prev:after,
+.swiper-button-prev:after, .swiper-container-rtl .swiper-button-next:after {display: none;}
+
+
+.page.p1 .swiper-button-prev {background: url(../img/prev.png) no-repeat center; background-size: cover; width: 19px; height: 21px;}
+.page.p1 .swiper-button-next {background: url(../img/next.png) no-repeat center; background-size: cover; width: 19px; height: 21px;}
